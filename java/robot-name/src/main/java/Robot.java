@@ -5,7 +5,7 @@ public class Robot {
     private String name;
 
     public Robot() {
-        this.name = giveName();
+        reset();
     }
 
     public String getName() {
