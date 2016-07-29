@@ -39,9 +39,16 @@
       <file leaf-file-name="SchoolTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/SchoolTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
-              <folding />
+            <state relative-caret-position="265">
+              <caret line="63" column="25" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
+                <element signature="e#341#342#0" expanded="true" />
+                <element signature="e#1292#1293#0" expanded="true" />
+                <element signature="e#1339#1340#0" expanded="true" />
+                <element signature="e#1560#1583#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -49,14 +56,16 @@
       <file leaf-file-name="School.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/School.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="225">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#234#235#0" expanded="true" />
                 <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#492#493#0" expanded="true" />
-                <element signature="e#562#563#0" expanded="true" />
+                <element signature="e#494#495#0" expanded="true" />
+                <element signature="e#564#565#0" expanded="true" />
+                <element signature="e#612#613#0" expanded="true" />
+                <element signature="e#644#645#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1113,44 +1122,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1469696555359</updated>
-      <workItem from="1469696556655" duration="7961000" />
+      <workItem from="1469696556655" duration="10469000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SchoolTest - 2016.07.28 at 17h 09m 05s.xml">
+    <history-entry file="SchoolTest - 2016.07.28 at 18h 22m 13s.xml">
       <configuration name="SchoolTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SchoolTest - 2016.07.28 at 17h 16m 17s.xml">
+    <history-entry file="SchoolTest - 2016.07.28 at 18h 22m 58s.xml">
       <configuration name="SchoolTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SchoolTest - 2016.07.28 at 17h 25m 09s.xml">
+    <history-entry file="SchoolTest - 2016.07.29 at 12h 40m 39s.xml">
       <configuration name="SchoolTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SchoolTest - 2016.07.28 at 17h 28m 08s.xml">
+    <history-entry file="SchoolTest - 2016.07.29 at 12h 41m 58s.xml">
       <configuration name="SchoolTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SchoolTest - 2016.07.28 at 17h 29m 28s.xml">
+    <history-entry file="SchoolTest - 2016.07.29 at 12h 52m 01s.xml">
       <configuration name="SchoolTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SchoolTest_getsStudentsInEmptyGrade - 2016.07.28 at 17h 06m 03s.xml">
-      <configuration name="SchoolTest.getsStudentsInEmptyGrade" configurationId="JUnit" />
+    <history-entry file="SchoolTest - 2016.07.29 at 12h 52m 40s.xml">
+      <configuration name="SchoolTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SchoolTest_getsStudentsInEmptyGrade - 2016.07.28 at 17h 08m 58s.xml">
-      <configuration name="SchoolTest.getsStudentsInEmptyGrade" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SchoolTest_sortsSchool - 2016.07.28 at 17h 29m 32s.xml">
+    <history-entry file="SchoolTest_sortsSchool - 2016.07.28 at 18h 09m 53s.xml">
       <configuration name="SchoolTest.sortsSchool" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SchoolTest_sortsSchool - 2016.07.28 at 17h 30m 12s.xml">
+    <history-entry file="SchoolTest_sortsSchool - 2016.07.28 at 18h 12m 10s.xml">
       <configuration name="SchoolTest.sortsSchool" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SchoolTest_sortsSchool - 2016.07.28 at 17h 47m 20s.xml">
+    <history-entry file="SchoolTest_sortsSchool - 2016.07.29 at 12h 54m 26s.xml">
+      <configuration name="SchoolTest.sortsSchool" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SchoolTest_sortsSchool - 2016.07.29 at 12h 54m 45s.xml">
       <configuration name="SchoolTest.sortsSchool" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7961000" />
+    <option name="totallyTimeSpent" value="10469000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="6" />
@@ -1215,22 +1224,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SchoolTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="265">
+          <caret line="63" column="25" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#1292#1293#0" expanded="true" />
+            <element signature="e#1339#1340#0" expanded="true" />
+            <element signature="e#1560#1583#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/School.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="225">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#234#235#0" expanded="true" />
             <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
           </folding>
         </state>
       </provider>

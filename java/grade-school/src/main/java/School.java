@@ -12,7 +12,7 @@ public class School {
 
     public void add(String student, int score) {
         List<String> studentList = grade(score);
-        studentList.add(student);
+        studentList.add(0,student);
         classRoom.put(score, studentList);
     }
 
@@ -21,13 +21,6 @@ public class School {
     }
 
     public Map<Integer, List<String>> sort() {
-        Map<Integer, List<String>> sortedClassroom = new HashMap<>();
-        classRoom.forEach((k, v) -> sortedClassroom.put(k, sortedNames(v)));
-        return sortedClassroom;
-    }
-
-    private List<String> sortedNames(List<String> v) {
-        v.sort((name1, name2) -> name1.compareTo(name2));
-        return v;
+        return classRoom;
     }
 }
